@@ -14,9 +14,25 @@ I'm currently expanding my knowledge of typing interfaces in Typescript and crea
 
 🎯 Projects I am presently involved in:</br>
 
-- 🐩 <strong><a href="https://github.com/PiotrDrechsler/spoondog">Spoondog</a></strong>  🐩 - Website of a pet grooming salon, co-created with members of the IT Juniors Community. We use Next.JS, Typescript and Tailwind to create the site. </a>
+- 🐶 <strong><a href="https://github.com/PiotrDrechsler/spoondog">Spoondog</a></strong>  🐶 </br> Website of a pet grooming salon, co-created with members of the IT Juniors Community. We use Next.JS, Typescript and Tailwind to create the site.
+</br>
 
+-  📆 <strong><a href="https://github.com/Delicadency/AK1944">AK1944</a></strong> 📆  </br> Redesign and refresh of the <a href="https://ak1944.pl">ak1944.pl</a> website. The site is created based on the Next.JS environment, typed in Typescript and styled with the help of Tailwind CSS. We use Storybook for UI elements, testing and documentation. In addition, we plan to implement Headless CMS Wordpress.
+</br>Want to see how the work is going? Check out the deploy on <a href="https://ak1944.vercel.app/">AK1944 Vercel site</a>
 
+✅ Completed pieces of work I'm proudly presenting: </br>
+
+- 💰 <strong>Currency Converter</strong> 💰</br>
+<a href="https://github.com/Delicadency/ProjectJS-Currency-Converter">JavaScript repository</a> / <a href="https://to-pln-currency-converter.netlify.app/">Check the deploy!</a></br>
+<a href="https://github.com/Delicadency/ProjectReact---Currency-Converter">React repository</a> / <a href="https://react-simple-currency-converter.netlify.app/">Check the deploy!</a></br>
+Currency converter project completed as part of the frontend developer bootcamp at Future Collars. The project was originally written using HTML, CSS and JavaScript and then rewritten for the React environment.
+In both versions, after filling in the amount and selecting the target currency, the application sends a query to the NBP API and then returns the converted amount to zlotys.
+
+- 📝 <strong>Simple Budget App</strong> 📝</br>
+<a href="https://github.com/Delicadency/ProjectJS---Simple-Budget-App">JavaScript repository</a> / <a href="https://prosty-budzet.netlify.app/">Check the deploy!</a></br>
+<a href="https://github.com/Delicadency/ProjectReact---Simple-Budget-App">React repository</a> / <a href="https://projectreact-simple-budget-app.netlify.app/">Check the deploy!</a></br>
+A simple budget management application into which income and expenses can be entered. The entered records can be edited and deleted. The project was created as a credit work for the frontend developer bootcamp at Future Collars.
+The JavaScript version is based on DOM element manipulation, while in the React version records are added through application state management.
 </p></br>
 
 
@@ -60,13 +76,6 @@ I'm currently expanding my knowledge of typing interfaces in Typescript and crea
   
 </div>
 
-
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=Delicadency&theme=material-palenight&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
 <!--
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Delicadency&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
