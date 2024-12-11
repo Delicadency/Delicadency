@@ -55,36 +55,43 @@ This is the first and by far the least complex credit project I wrote as part of
 
 </p></br>
 
-## 💻 Tech Stack:
-### 💾 Programming:
+### 💻 Tech Stack:
 <p align="center">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=html5,css3,javascript,react,tailwindcss,bootstrap,npm,git" />
+   
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</br></br>
+
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6?style=for-the-badge&logo=adobedreamweaver&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-44A833?style=for-the-badge&logo=coreldraw&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
+
   </a>
 </p></br>
 
-### 🌐 Deploy:
-<p align="center">
-  <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=netlify,github" />
-  </a>
-</p></br>
 
-### 🎨 Design:
-<p align="center">
-  <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=adobephotoshop,adobeillustrator,adobeaftereffects,adobedreamweaver,figma,canva,coreldraw,gimp" />
-  </a>
-</p></br>
 
-###  📚 Currently learning:
-<p align="center">
-  <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=nextdotjs,typescript" />
-  </a>
-</p></br>
-
-## 📊 GitHub Stats:
+<!-- ## 📊 GitHub Stats:
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=Delicadency&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
@@ -95,7 +102,7 @@ This is the first and by far the least complex credit project I wrote as part of
   
 </div>
 
-<!--
+
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Delicadency&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=Delicadency&icon=5&color=6)](https://visitcount.itsvg.in)
